@@ -11,7 +11,7 @@ impl Solution {
 
     fn factorial(n: i32) -> i32 {
         let mut result = 1;
-        for i in 1..(n + 1) {
+        for i in 1..=n {
             result *= i;
         }
         result
