@@ -29,7 +29,9 @@ def main():
 
         relative_path = '/'.join((bin_path / rust_file).parts)
         link = f'[{filename}]({relative_path})'
-        command = f'`cargo run --bin {filename}`'
+
+        arg = '-'.join(segments[1:])
+        command = f'`cargo run --bin {arg}`'
 
         problem = problem_template.format(
             number=number, link=link, command=command)
