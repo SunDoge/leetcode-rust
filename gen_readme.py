@@ -23,15 +23,21 @@ def main():
 
     problems = []
     for rust_file in rust_files:
-        segments = rust_file.split('.')[0].split('-')
+        # 135-candy.rs -> 135-candy, rs
+        filename_and_ext = rust_file.split('.')
+
+        # 135-candy -> 135, candy
+        segments = filename_and_ext[0].split('-')
+
         number = segments[0]
         filename = ' '.join(segments[1:])
 
+        # src/bin/135-candy.rs
         relative_path = '/'.join((bin_path / rust_file).parts)
         link = f'[{filename}]({relative_path})'
 
-        arg = '-'.join(segments[1:])
-        command = f'`cargo run --bin {arg}`'
+        # 135-candy
+        command = f'`cargo run --bin {filename_and_ext[0]}`'
 
         problem = problem_template.format(
             number=number, link=link, command=command)
