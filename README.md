@@ -18,6 +18,7 @@
 | 135 | [candy](src/bin/135-candy.rs) | `cargo run --bin 135-candy` |
 | 169 | [majority element](src/bin/169-majority-element.rs) | `cargo run --bin 169-majority-element` |
 | 189 | [rotate array](src/bin/189-rotate-array.rs) | `cargo run --bin 189-rotate-array` |
+| 200 | [contains duplicate iii](src/bin/200-contains-duplicate-iii.rs) | `cargo run --bin 200-contains-duplicate-iii` |
 | 217 | [contains duplicate](src/bin/217-contains-duplicate.rs) | `cargo run --bin 217-contains-duplicate` |
 | 219 | [contains duplicate ii](src/bin/219-contains-duplicate-ii.rs) | `cargo run --bin 219-contains-duplicate-ii` |
     
