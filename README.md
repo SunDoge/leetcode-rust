@@ -22,4 +22,6 @@
 | 200 | [contains duplicate iii](src/bin/200-contains-duplicate-iii.rs) | `cargo run --bin 200-contains-duplicate-iii` |
 | 217 | [contains duplicate](src/bin/217-contains-duplicate.rs) | `cargo run --bin 217-contains-duplicate` |
 | 219 | [contains duplicate ii](src/bin/219-contains-duplicate-ii.rs) | `cargo run --bin 219-contains-duplicate-ii` |
+| 238 | [product of array except self](src/bin/238-product-of-array-except-self.rs) | `cargo run --bin 238-product-of-array-except-self` |
+| 289 | [game of life](src/bin/289-game-of-life.rs) | `cargo run --bin 289-game-of-life` |
     
