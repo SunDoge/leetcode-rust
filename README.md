@@ -6,6 +6,9 @@
 | # | Title | Command |
 | - | ----- | ------- |
 | 2 | [add two numbers](src/bin/2-add-two-numbers.rs) | `cargo run --bin 2-add-two-numbers` |
+| 7 | [reverse integer](src/bin/7-reverse-integer.rs) | `cargo run --bin 7-reverse-integer` |
+| 9 | [palindrome number](src/bin/9-palindrome-number.rs) | `cargo run --bin 9-palindrome-number` |
+| 13 | [roman to integer](src/bin/13-roman-to-integer.rs) | `cargo run --bin 13-roman-to-integer` |
 | 27 | [remove element](src/bin/27-remove-element.rs) | `cargo run --bin 27-remove-element` |
 | 36 | [valid sudoku](src/bin/36-valid-sudoku.rs) | `cargo run --bin 36-valid-sudoku` |
 | 42 | [trapping rain water](src/bin/42-trapping-rain-water.rs) | `cargo run --bin 42-trapping-rain-water` |
@@ -24,4 +27,6 @@
 | 219 | [contains duplicate ii](src/bin/219-contains-duplicate-ii.rs) | `cargo run --bin 219-contains-duplicate-ii` |
 | 238 | [product of array except self](src/bin/238-product-of-array-except-self.rs) | `cargo run --bin 238-product-of-array-except-self` |
 | 289 | [game of life](src/bin/289-game-of-life.rs) | `cargo run --bin 289-game-of-life` |
+| 334 | [increasing triplet subsequence](src/bin/334-increasing-triplet-subsequence.rs) | `cargo run --bin 334-increasing-triplet-subsequence` |
+| 1480 | [running sum of 1d array](src/bin/1480-running-sum-of-1d-array.rs) | `cargo run --bin 1480-running-sum-of-1d-array` |
     
