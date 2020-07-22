@@ -24,11 +24,7 @@ pub fn is_valid(s: String) -> bool {
     }
 
     // 必须所有括号都闭合
-    if stack.is_empty() {
-        true
-    } else {
-        false
-    }
+    stack.is_empty()
 }
 
 fn main() {
