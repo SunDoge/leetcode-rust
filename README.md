@@ -12,6 +12,7 @@
 | 13 | [roman to integer](src/bin/13-roman-to-integer.rs) | `cargo run --bin 13-roman-to-integer` |
 | 14 | [longest common prefix](src/bin/14-longest-common-prefix.rs) | `cargo run --bin 14-longest-common-prefix` |
 | 20 | [valid parentheses](src/bin/20-valid-parentheses.rs) | `cargo run --bin 20-valid-parentheses` |
+| 21 | [merge two sorted lists](src/bin/21-merge-two-sorted-lists.rs) | `cargo run --bin 21-merge-two-sorted-lists` |
 | 27 | [remove element](src/bin/27-remove-element.rs) | `cargo run --bin 27-remove-element` |
 | 36 | [valid sudoku](src/bin/36-valid-sudoku.rs) | `cargo run --bin 36-valid-sudoku` |
 | 42 | [trapping rain water](src/bin/42-trapping-rain-water.rs) | `cargo run --bin 42-trapping-rain-water` |
