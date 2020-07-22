@@ -17,7 +17,8 @@ def main():
 | # | Title | Command |
 | - | ----- | ------- |
 {problems}
-    """
+
+"""
 
     problem_template = "| {number} | {link} | {command} |"
 

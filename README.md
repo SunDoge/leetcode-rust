@@ -32,4 +32,4 @@
 | 289 | [game of life](src/bin/289-game-of-life.rs) | `cargo run --bin 289-game-of-life` |
 | 334 | [increasing triplet subsequence](src/bin/334-increasing-triplet-subsequence.rs) | `cargo run --bin 334-increasing-triplet-subsequence` |
 | 1480 | [running sum of 1d array](src/bin/1480-running-sum-of-1d-array.rs) | `cargo run --bin 1480-running-sum-of-1d-array` |
-    
+
