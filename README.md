@@ -22,8 +22,10 @@
 | 48 | [rotate image](src/bin/48-rotate-image.rs) | `cargo run --bin 48-rotate-image` |
 | 50 | [powx n](src/bin/50-powx-n.rs) | `cargo run --bin 50-powx-n` |
 | 53 | [maximum subarray](src/bin/53-maximum-subarray.rs) | `cargo run --bin 53-maximum-subarray` |
+| 58 | [length of last word](src/bin/58-length-of-last-word.rs) | `cargo run --bin 58-length-of-last-word` |
 | 60 | [permutation sequence](src/bin/60-permutation-sequence.rs) | `cargo run --bin 60-permutation-sequence` |
 | 66 | [plus one](src/bin/66-plus-one.rs) | `cargo run --bin 66-plus-one` |
+| 67 | [add binary](src/bin/67-add-binary.rs) | `cargo run --bin 67-add-binary` |
 | 70 | [climbing stairs](src/bin/70-climbing-stairs.rs) | `cargo run --bin 70-climbing-stairs` |
 | 73 | [set matrix zeroes](src/bin/73-set-matrix-zeroes.rs) | `cargo run --bin 73-set-matrix-zeroes` |
 | 134 | [gas station](src/bin/134-gas-station.rs) | `cargo run --bin 134-gas-station` |
