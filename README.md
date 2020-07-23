@@ -21,6 +21,7 @@
 | 42 | [trapping rain water](src/bin/42-trapping-rain-water.rs) | `cargo run --bin 42-trapping-rain-water` |
 | 48 | [rotate image](src/bin/48-rotate-image.rs) | `cargo run --bin 48-rotate-image` |
 | 50 | [powx n](src/bin/50-powx-n.rs) | `cargo run --bin 50-powx-n` |
+| 53 | [maximum subarray](src/bin/53-maximum-subarray.rs) | `cargo run --bin 53-maximum-subarray` |
 | 60 | [permutation sequence](src/bin/60-permutation-sequence.rs) | `cargo run --bin 60-permutation-sequence` |
 | 66 | [plus one](src/bin/66-plus-one.rs) | `cargo run --bin 66-plus-one` |
 | 70 | [climbing stairs](src/bin/70-climbing-stairs.rs) | `cargo run --bin 70-climbing-stairs` |
