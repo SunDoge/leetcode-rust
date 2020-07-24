@@ -26,6 +26,7 @@
 | 60 | [permutation sequence](src/bin/60-permutation-sequence.rs) | `cargo run --bin 60-permutation-sequence` |
 | 66 | [plus one](src/bin/66-plus-one.rs) | `cargo run --bin 66-plus-one` |
 | 67 | [add binary](src/bin/67-add-binary.rs) | `cargo run --bin 67-add-binary` |
+| 69 | [sqrtx](src/bin/69-sqrtx.rs) | `cargo run --bin 69-sqrtx` |
 | 70 | [climbing stairs](src/bin/70-climbing-stairs.rs) | `cargo run --bin 70-climbing-stairs` |
 | 73 | [set matrix zeroes](src/bin/73-set-matrix-zeroes.rs) | `cargo run --bin 73-set-matrix-zeroes` |
 | 134 | [gas station](src/bin/134-gas-station.rs) | `cargo run --bin 134-gas-station` |
