@@ -32,6 +32,7 @@
 | 83 | [remove duplicates from sorted list](src/bin/83-remove-duplicates-from-sorted-list.rs) | `cargo run --bin 83-remove-duplicates-from-sorted-list` |
 | 88 | [merge sorted array](src/bin/88-merge-sorted-array.rs) | `cargo run --bin 88-merge-sorted-array` |
 | 100 | [same tree](src/bin/100-same-tree.rs) | `cargo run --bin 100-same-tree` |
+| 101 | [symmetric tree](src/bin/101-symmetric-tree.rs) | `cargo run --bin 101-symmetric-tree` |
 | 134 | [gas station](src/bin/134-gas-station.rs) | `cargo run --bin 134-gas-station` |
 | 135 | [candy](src/bin/135-candy.rs) | `cargo run --bin 135-candy` |
 | 169 | [majority element](src/bin/169-majority-element.rs) | `cargo run --bin 169-majority-element` |
