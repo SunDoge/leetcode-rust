@@ -29,6 +29,9 @@
 | 69 | [sqrtx](src/bin/69-sqrtx.rs) | `cargo run --bin 69-sqrtx` |
 | 70 | [climbing stairs](src/bin/70-climbing-stairs.rs) | `cargo run --bin 70-climbing-stairs` |
 | 73 | [set matrix zeroes](src/bin/73-set-matrix-zeroes.rs) | `cargo run --bin 73-set-matrix-zeroes` |
+| 83 | [remove duplicates from sorted list](src/bin/83-remove-duplicates-from-sorted-list.rs) | `cargo run --bin 83-remove-duplicates-from-sorted-list` |
+| 88 | [merge sorted array](src/bin/88-merge-sorted-array.rs) | `cargo run --bin 88-merge-sorted-array` |
+| 100 | [same tree](src/bin/100-same-tree.rs) | `cargo run --bin 100-same-tree` |
 | 134 | [gas station](src/bin/134-gas-station.rs) | `cargo run --bin 134-gas-station` |
 | 135 | [candy](src/bin/135-candy.rs) | `cargo run --bin 135-candy` |
 | 169 | [majority element](src/bin/169-majority-element.rs) | `cargo run --bin 169-majority-element` |
