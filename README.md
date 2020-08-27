@@ -11,6 +11,7 @@
 | 9 | [palindrome number](src/bin/9-palindrome-number.rs) | `cargo run --bin 9-palindrome-number` |
 | 13 | [roman to integer](src/bin/13-roman-to-integer.rs) | `cargo run --bin 13-roman-to-integer` |
 | 14 | [longest common prefix](src/bin/14-longest-common-prefix.rs) | `cargo run --bin 14-longest-common-prefix` |
+| 17 | [letter combinations of a phone number](src/bin/17-letter-combinations-of-a-phone-number.rs) | `cargo run --bin 17-letter-combinations-of-a-phone-number` |
 | 20 | [valid parentheses](src/bin/20-valid-parentheses.rs) | `cargo run --bin 20-valid-parentheses` |
 | 21 | [merge two sorted lists](src/bin/21-merge-two-sorted-lists.rs) | `cargo run --bin 21-merge-two-sorted-lists` |
 | 27 | [remove element](src/bin/27-remove-element.rs) | `cargo run --bin 27-remove-element` |
