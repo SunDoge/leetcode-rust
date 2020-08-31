@@ -33,5 +33,7 @@ pub fn letter_combinations(digits: String) -> Vec<String> {
 
 fn main() {
     let input = "23".to_string();
-    println!("{:?}", letter_combinations(input));
+    let output: Vec<String> = ["ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"].iter().map(|x|x.to_string()).collect();
+    println!("{:?}", letter_combinations(input.clone()));
+    assert_eq!(letter_combinations(input.clone()), output);
 }

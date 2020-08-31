@@ -7,6 +7,7 @@
 | - | ----- | ------- |
 | 1 | [two sum](src/bin/1-two-sum.rs) | `cargo run --bin 1-two-sum` |
 | 2 | [add two numbers](src/bin/2-add-two-numbers.rs) | `cargo run --bin 2-add-two-numbers` |
+| 3 | [longest substring without repeating characters](src/bin/3-longest-substring-without-repeating-characters.rs) | `cargo run --bin 3-longest-substring-without-repeating-characters` |
 | 7 | [reverse integer](src/bin/7-reverse-integer.rs) | `cargo run --bin 7-reverse-integer` |
 | 9 | [palindrome number](src/bin/9-palindrome-number.rs) | `cargo run --bin 9-palindrome-number` |
 | 13 | [roman to integer](src/bin/13-roman-to-integer.rs) | `cargo run --bin 13-roman-to-integer` |
