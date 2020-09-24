@@ -37,6 +37,7 @@
 | 101 | [symmetric tree](src/bin/101-symmetric-tree.rs) | `cargo run --bin 101-symmetric-tree` |
 | 134 | [gas station](src/bin/134-gas-station.rs) | `cargo run --bin 134-gas-station` |
 | 135 | [candy](src/bin/135-candy.rs) | `cargo run --bin 135-candy` |
+| 140 | [maximum depth of binary tree](src/bin/140-maximum-depth-of-binary-tree.rs) | `cargo run --bin 140-maximum-depth-of-binary-tree` |
 | 169 | [majority element](src/bin/169-majority-element.rs) | `cargo run --bin 169-majority-element` |
 | 189 | [rotate array](src/bin/189-rotate-array.rs) | `cargo run --bin 189-rotate-array` |
 | 200 | [contains duplicate iii](src/bin/200-contains-duplicate-iii.rs) | `cargo run --bin 200-contains-duplicate-iii` |
